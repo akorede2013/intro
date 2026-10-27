@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my school</title>
+<link rel="icon"" href="ft.png" type="ïmage/icon type">
+</head>
+<center>
+<body>
+<h1>my school is in ushafa</h1>
+  <?php include("includes/header.php")?>
+<h1>our uniform is light blue</h1>
+<p>we have a big school compound</p>
+<p>we have different sections</p>
+<p>like primary</P>
+<p>secondary</p>
+<P>head quarters</P>
+<P>i love my school</p>
+</body>
+</center>
+</html>
